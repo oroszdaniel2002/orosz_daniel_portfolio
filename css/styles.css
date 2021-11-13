@@ -1,0 +1,184 @@
+body {
+    background-color:lightgray;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    border: 5px solid;
+    text-align:center;
+}
+.gomb{
+    align-content: center;
+    background-color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 30px;
+    font-style: normal;
+}
+.En{
+    height: 884px;
+    width: 889px;
+    border: 10px double;
+    float: left    ;
+    padding: 1px;
+}
+.Rolam{
+    float: right;
+}
+.Rolam1{
+    font-size: 23px;
+    font-style: italic;
+    font-weight: bold;
+    border-bottom: 5px solid;
+    position: absolute;
+    top: 500px;
+    right: 20px;
+    text-align: center;
+}
+header{
+    background-color: darkgrey;
+    text-align: center;
+}
+.kep1{
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    border: 10px double;
+    padding: 1px;
+    height: 500px;
+    width: 500px;
+}
+.szoveg1{
+    position: absolute;
+    top: 690px;
+    left: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.kep2{
+    position: absolute;
+    top: 180px;
+    left: 680px;
+    border: 10px double;
+    padding: 1px;
+    height: 333px;
+    width: 500px;
+}
+.szoveg2{
+    position: absolute;
+    top: 523px;
+    left: 690px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.kep3{
+    position: absolute;
+    top: 180px;
+    left: 1210px;
+    border: 10px double;
+    padding: 1px;
+    height: 747px;
+    width: 500px;
+}
+.szoveg3{
+    position: absolute;
+    top: 937px;
+    left: 1220px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.kep4{
+    position: absolute;
+    top: 780px;
+    left: 150px;
+    border: 10px double;
+    padding: 1px;
+    height: 500px;
+    width: 500px;
+}
+.szoveg4{
+    position: absolute;
+    top: 1290px;
+    left: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.kep5{
+    position: absolute;
+    top: 780px;
+    left: 680px;
+    border: 10px double;
+    padding: 1px;
+    height: 375px;
+    width: 500px;
+}
+.szoveg5{
+    position: absolute;
+    top: 1165px;
+    left: 680px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.kep6{
+    position: absolute;
+    top: 780px;
+    left: 1210px;
+    border: 10px double;
+    padding: 1px;
+    height: 500px;
+    width: 265px;
+}
+.szoveg6{
+    position: absolute;
+    top: 1290px;
+    left: 1210px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.cim{
+    font-size: 40px;
+    font-style: italic;
+    text-decoration: underline;
+}
+.lista{
+    position: absolute;
+    left: 200px;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+.kapcsolat{
+    position: absolute;
+    top: 240px;
+    left: 700px;
+    border: 10px double;
+    height: 700px;
+    padding: 1px;
+}
+.terv{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+.tervszoveg{
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+}
+.focim{
+    font-size: 28px;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+.foterv{
+    text-align: center;
+}
